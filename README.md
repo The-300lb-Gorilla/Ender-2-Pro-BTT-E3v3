@@ -2,7 +2,7 @@
 This is an upgrade for the Ender 2 Pro Only. It does require a New Set of Ender 3 Pro Motor Cables to do the conversion with the BTT SKR Mini E3v3 motherboard.
 ## Specific Firmware Functionality:
  1. Cleaner Main Information Screen.
- 2. Single Language Menu System.
+ 2. Quicker Boot Time.
  3. Cleaner and more detailed Menu System.
  4. Cleaner and better labled Menu System.
  5. No automatic timeout and return to main information screen. (Really anoying when you turn away for a second, and it is back on the Main Information Screen, and you have to start again.)
