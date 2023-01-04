@@ -8,7 +8,7 @@ This is an upgrade for the Ender 2 Pro Only. It does require a New Set of Ender 
  5. No automatic timeout and return to main information screen. (Really anoying when you turn away for a second, and it is back on the Main Information Screen, and you have to start again.)
  6. You must manually scroll and click to return to previous menus and to the Main Information Screen.
  7. Power Loss Recovery. (Off by Default, but can be turned on in the Settings Menu.)
- 8. Filament Run Out Sensor. (Off by Default, but can be turned on in the Settings Menu.)
+ 8. Filament Run Out Sensor. (Off by Default, but can be turned on in the Settings Menu if you decide to add a Filament Run Out Sensor.)
  9. LCD Assisted Manual 4 Corner Bed Leveling. (Paper method at 4 corners over bed screws, leveling by raising and lowering with bed adjustment wheels)
  10. (9)Nine Point LCD Assisted Manual Mesh Bed Leveing. (No need for ABL Probe) Paper method, raising and lower the nozzle with the LCD knob at (9) nine points around the bed to create a mesh, just like an ABL Probe, but none of the waiting, wiring, setup, firmware recompiling, and in my opinion, a simpler way to level the bed.
  11. Long File Names Enabled.
