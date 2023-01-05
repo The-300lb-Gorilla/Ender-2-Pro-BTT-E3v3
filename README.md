@@ -1,5 +1,3 @@
-# Sponsorship of this repository: 
-##  Cash App, using the cashtag: $The300lbGorilla2022
 # TEST VERSION, as I have no BTT SKR Mini E3v3 to test it on. Please leave feedback in the discussion tab.
 ## UPDATE: Fixed the X & Y Min Position
 1. OLD: #define X_MIN_POS 0  New: #define X_MIN_POS -20
@@ -25,3 +23,5 @@ This is an upgrade for the Ender 2 Pro Only. It does require a New Set of Ender 
  15. Thermal Runaway Protection Enabled.
  16. No ABL Probe Function is available, and there will not be at this time.
 ## DISCLAIMER: Gorilla Tech Programming Group,LLC takes no responsibility for monetary loss or damages, injury, or death in the process of doing this motherboard conversion. If you do this conversion, you do so at your own risk, and will not hold Gorilla Tech Programming Group,LLC liable for monetary loss or damages, injuries, or death. Proceed at your own risk!
+# Sponsorship of this repository: 
+##  Cash App, using the cashtag: $The300lbGorilla
