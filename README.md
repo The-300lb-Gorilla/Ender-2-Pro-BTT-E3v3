@@ -21,7 +21,7 @@ This is an upgrade for the Ender 2 Pro Only. It does require a New Set of Ender 
  13. Removal of ABS Preheat, since the Ender 2 Pro cannot print ABS.
  14. Single PLA Preheat. Temps are as follows: Hot-End 205c Bed Temp 65c.
  15. Thermal Runaway Protection Enabled.
- 16. No ABL Probe Function is available, and there will not be at this time.
+ 16. No ABL Probe Function is available, and there will not be at this time..
 ## DISCLAIMER: Gorilla Tech Programming Group,LLC takes no responsibility for monetary loss or damages, injury, or death in the process of doing this motherboard conversion. If you do this conversion, you do so at your own risk, and will not hold Gorilla Tech Programming Group,LLC liable for monetary loss or damages, injuries, or death. Proceed at your own risk!
 # Sponsorship for this repository: 
 ##  Cash App, using the cashtag: $The300lbGorilla
