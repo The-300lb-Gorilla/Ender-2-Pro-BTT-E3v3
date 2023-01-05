@@ -1,4 +1,4 @@
-# BETA TEST VERSION ONLY!
+# TEST VERSION, as I have not BTT SKR Mini E3v3 to test it on. Please leave feedback in the discussion tab.
 ## UPDATE: Fixed the X & Y Min Position
 1. OLD: #define X_MIN_POS 0  New: #define X_MIN_POS -20
 2. OLD: #define Y_MIN_POS 0  New: #define Y_MIN_POS -5
