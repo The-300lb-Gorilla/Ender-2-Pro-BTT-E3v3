@@ -1,5 +1,5 @@
 # TEST VERSION, as I have no BTT SKR Mini E3v3 to test it on. Please leave feedback in the discussion tab. This conversion uses the Stock LCD Display, not a TFT screen.
-## UPDATE: Fixed the X & Y Min Position
+## UPDATE 1-5-2023: Fixed the X & Y Min Position
 1. OLD: #define X_MIN_POS 0  New: #define X_MIN_POS -20
 2. OLD: #define Y_MIN_POS 0  New: #define Y_MIN_POS -5
 3. Recompiled Firmware, and uploaded new, updated version today. January 5, 2023
