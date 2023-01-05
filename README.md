@@ -1,4 +1,8 @@
 # BETA TEST VERSION ONLY!
+## UPDATE: Fixed the X & Y Min Position
+1. OLD: #define X_MIN_POS 0  New: #define X_MIN_POS -20
+2. OLD: #define Y_MIN_POS 0  New: #define Y_MIN_POS -5
+3. Recompiled Firmware, and uploaded new, updated version today. January 5, 2023
 # Ender-2-Pro-BTT-E3v3 with a STM32G0B1RE_btt Platformio.ini
 This is an upgrade for the Ender 2 Pro Only. It does require a New Set of Ender 3 Pro Motor Cables to do the conversion with the BTT SKR Mini E3v3 motherboard.
 ## Specific Firmware Functionality:
