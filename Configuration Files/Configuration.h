@@ -1100,7 +1100,9 @@
  * Override with M92
  *                                      X, Y, Z [, I [, J [, K]]], E0 [, E1[, E2...]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 93 }
+// Updated 1-6-2023: Stoc E-Steps are 92.3 for the Ender 2 Pro
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 92.3 } //<----------- Updated setting for Ender 2 Pro
+//#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 93 } //<----------- OEM Factory Settings
 
 /**
  * Default Max Feed Rate (mm/s)
