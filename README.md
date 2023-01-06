@@ -8,9 +8,9 @@
 1. Changed #define MIN_SOFTWARE_ENDSTOP_Z to //#define MIN_SOFTWARE_ENDSTOP_Z to allow Z to go into negative for offset.
 2. Tuning to a (-) Negative number was not allowed until //#define MIN_SOFTWARE_ENDSTOP_Z was commented out
 3. Set E-Steps to Proper E-Steps for Ender 2 Pro
-4. Changed // Updated 1-6-2023: Stock E-Steps are 92.3 for the Ender 2 Pro
-5. #define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 92.3 } //<----------- Updated setting for Ender 2 Pro
-6. //#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 93 } //<----------- OEM Factory Settings
+4. Changed Updated 1-6-2023: Stock OEM E-Steps are 93 to 92.6 for the Ender 2 Pro
+5. NEW: #define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 92.3 } //<----------- Updated setting for Ender 2 Pro
+6. OLD: #define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 93 } //<----------- OEM Factory Settings
 7. Recompiled Firmware, and uploaded new, updated version today. January 6, 2023
 # Ender-2-Pro-BTT-E3v3 with a STM32G0B1RE_btt Platformio.ini
 This is an upgrade for the Ender 2 Pro Only. It does require a New Set of Ender 3 Pro Motor Cables to do the conversion with the BTT SKR Mini E3v3 motherboard.
