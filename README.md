@@ -12,7 +12,7 @@
 5. NEW: #define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 92.3 } //<----------- Updated setting for Ender 2 Pro
 6. OLD: #define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 93 } //<----------- OEM Factory Settings
 7. Recompiled Firmware, and uploaded new, updated version today. January 6, 2023
-# Updated firmware 1-7-2023
+## Updated firmware 1-7-2023
 1. Fixed Tuning while printing bug.
 2. Recompiled Firmware, and uploaded new, updated version today. January 7, 2023
 # Ender-2-Pro-BTT-E3v3 with a STM32G0B1RE_btt Platformio.ini
