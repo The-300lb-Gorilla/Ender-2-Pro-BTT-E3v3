@@ -14,6 +14,7 @@
 7. Recompiled Firmware, and uploaded new, updated version today. January 6, 2023
 # Updated firmware 1-7-2023
 1. Fixed Tuning while printing bug.
+2. Recompiled Firmware, and uploaded new, updated version today. January 7, 2023
 # Ender-2-Pro-BTT-E3v3 with a STM32G0B1RE_btt Platformio.ini
 This is an upgrade for the Ender 2 Pro Only. It does require a New Set of Ender 3 Pro Motor Cables to do the conversion with the BTT SKR Mini E3v3 motherboard.
 ## Specific Firmware Functionality:
